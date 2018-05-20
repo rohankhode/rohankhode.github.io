@@ -1,4 +1,4 @@
-.row.afterNav {
+.afterNav {
   margin-top:100px;
 }
 
@@ -19,5 +19,21 @@ p {
 
 .contact-text {
   padding:30px;
+}
+
+a {
+  color:#c3c3c3;
+  text-decoration:none;
+  background-color:transparent;
+  -webkit-text-decoration-skip:objects;
+}
+
+a:hover {
+  color:#e4e4e4;
+  text-decoration:none;
+}
+
+.project-text {
+  text-align:right;
 }
 
